@@ -1,0 +1,11 @@
+.selectedParking {
+  -webkit-box-shadow: inset 0px 0px 0px 8px rgb(26 86 219);
+  -moz-box-shadow: inset 0px 0px 0px 8px rgb(26 86 219);
+  box-shadow: inset 0px 0px 0px 8px rgb(26 86 219);
+}
+
+.notSelectedParking {
+  -webkit-box-shadow: inset 0px 0px 0px 1px rgb(229 231 235);
+  -moz-box-shadow: inset 0px 0px 0px 1px rgb(229 231 235);
+  box-shadow: inset 0px 0px 0px 1px rgb(229 231 235);
+}
